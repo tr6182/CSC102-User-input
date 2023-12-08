@@ -1,0 +1,16 @@
+#submit 
+{
+    background-color:rgb(43, 144, 226);
+    color:black
+}
+#submit:hover 
+{
+    background-color: rgb(205, 50, 63);
+    color:white;
+    padding: 16px 32px;
+    transition-duration: 0.2s;
+}
+body
+{
+    background-color: cornflowerblue;
+}
